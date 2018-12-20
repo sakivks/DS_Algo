@@ -13,5 +13,6 @@ var numIslands = function(grid) {
   return grid;
 };
 
+var manage
 
 console.log(numIslands(grid));
